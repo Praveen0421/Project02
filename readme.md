@@ -8,4 +8,6 @@
 
 #### It took at most 4-5hr to complete this Project
 
-**Live link** - [Project02](link "project02")
+![Project02](thumbnail.png)
+
+**Live link** - [PROJECT02](https://food-restaurant-dashboard.netlify.app/)
